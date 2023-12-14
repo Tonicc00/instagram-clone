@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project should resamble an Instagram clone. I am doing this following a tutorial.
+For the project I will be using React + VIte and Chakra UI.
+This is the first time I'm using Chakra UI and so far it has been very helpfull and seems easy-to-use.
 
-Currently, two official plugins are available:
+Setup goes like this:
+1. I listen to the instructor to see what components are needed
+2. First I will try to create components on my own.
+3. I see the solution by the istructor.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Then I will correct what needs to be corrected.
+So far the project seems simple eoungh for me to understand and majority of work so far focuses on styling the components.
+
+For now I have made authentication page, sidebar and part of the home page.
