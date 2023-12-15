@@ -4,7 +4,7 @@ import { Link as RouterLink } from "react-router-dom"
 const SuggestedHeader = () => {
   return (
     <Flex
-        justifyContent={"space-between"} alignItems={"center"} gap="2">
+        justifyContent={"space-between"} alignItems={"center"} gap="2" w="full">
         <Image src="public/profilepic.png" w={"4rem"}/>
         <Box>
             <Text fontWeight={600} fontSize={14}>
