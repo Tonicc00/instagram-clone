@@ -12,4 +12,6 @@ Setup goes like this:
 Then I will correct what needs to be corrected.
 So far the project seems simple eoungh for me to understand and majority of work so far focuses on styling the components.
 
-For now I have made authentication page, sidebar and part of the home page.
+For now I have made a design for authentication page, sidebar and part of the home page.
+
+On second commit home page is finished and I started working on the design for profile page.
