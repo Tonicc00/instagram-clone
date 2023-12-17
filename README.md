@@ -15,3 +15,6 @@ So far the project seems simple eoungh for me to understand and majority of work
 For now I have made a design for authentication page, sidebar and part of the home page.
 
 On second commit home page is finished and I started working on the design for profile page.
+
+New commit. Profile posts are finished and I started working on the modal. Basically all the elements used before are now used again with a drifferent position and setup.
+Lots of css properties are used as well so the page looks nice on all screen sizes.
